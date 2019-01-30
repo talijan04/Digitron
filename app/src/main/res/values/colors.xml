@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d2731</color>
+    <color name="colorPrimaryDark">#1d2731</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="selected">#f1c40f</color>
+    <color name="btn_clr">#1d2731</color>
+    <color name="operator_btn_clr">#db3463</color>
+    <color name="green">#1d2731</color>
+    <color name="text_color">#f1c40f</color>
+</resources>
